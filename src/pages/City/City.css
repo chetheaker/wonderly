@@ -1,0 +1,18 @@
+.city {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 2rem;
+}
+
+.city .time {
+  font-weight: normal;
+}
+
+.city .buttons {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
